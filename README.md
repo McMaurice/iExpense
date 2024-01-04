@@ -1,0 +1,1 @@
+This application features two collapsible segments for organizing personal and business expenses, utilizing red text to highlight instances of low expenditures. It operates swiftly and boasts a well-designed user interface.
